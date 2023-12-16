@@ -1,0 +1,25 @@
+name: shipmentiq
+description: "An upcoming inventory management application built for businesses that can be easily adapted to different scenarios."
+version: 0.0.1
+
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+  - assets/images/
