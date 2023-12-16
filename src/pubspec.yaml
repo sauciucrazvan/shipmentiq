@@ -11,6 +11,9 @@ dependencies:
   flutter:
     sdk: flutter
 
+  # Bloc as the state manager
+  flutter_bloc: ^8.0.0
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
